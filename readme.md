@@ -1,6 +1,6 @@
 # Goang and Postgresql simple CRUD Project
 
-### - use library
+###  .use library
 #### 1.Chi for route
 ```sh
   go get -u github.com/go-chi/chi/v5
