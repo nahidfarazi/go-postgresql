@@ -1,4 +1,4 @@
-# Goang and Postgresql simple CRUD Project
+# Golang and Postgresql simple CRUD Project
 
 ###  -library uses
 #### 1.Chi for route
